@@ -1,0 +1,25 @@
+.nav-section{
+    display: flex;
+    /* justify-content:space-between; */
+    align-items:center;
+    gap:200px;
+
+}
+.navbar{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    background-color: #444553;
+    color:#FDFDFE;
+    height: 60px;
+    list-style: none;
+}
+
+ .red{
+    color: mistyrose;
+    font-size: larger;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
