@@ -3,10 +3,12 @@ import About from "../pages/About";
 import Blog from "../pages/Blog";
 import Home from "../pages/Home";
 import Navbar from "../Components/Navbar";
+import Footer from "../Components/Footer";
 
 export default function AppRoutes() {
   return (
     <Router>
+      <Footer/>
       <Navbar/>
       <Routes>
         <Route path="/about" element={<About />} />

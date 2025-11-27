@@ -6,11 +6,9 @@
 }
 
 body {
-  /* background: green; */
   color: #333;
 }
 
-/* MAIN ABOUT SECTION */
 .about-section {
   max-width: 1100px;
   margin: 50px auto;
@@ -33,7 +31,6 @@ body {
   align-items: start;
 }
 
-/* LEFT */
 .about-left {
   text-align: center;
 }
@@ -70,14 +67,12 @@ body {
   background: #b5654a;
 }
 
-/* RIGHT */
 .about-right {
   font-size: 18px;
   line-height: 1.9;
   color: #444;
 }
 
-/* STORY SECTION */
 .story-section {
   background: white;
   text-align: center;
@@ -125,15 +120,7 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
-/* 
-body {
-  font-family: 'Arial', sans-serif;
-  background: lightblue;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-} */
+
 
 .container {
   background: #fff;

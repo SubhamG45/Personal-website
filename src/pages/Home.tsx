@@ -18,7 +18,8 @@ function Home() {
         <a href="#"><button> Explore my work</button></a>
       </div>
       <section className="skills">
-  <h2>My Skills</h2>
+
+   <h2>My Skills</h2>
 
   <div className="skills-box">
     <div className="skill">HTML5</div>

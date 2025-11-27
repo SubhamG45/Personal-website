@@ -20,6 +20,7 @@ function App(){
       <AppRoutes/>
     </Container>
   </MantineProvider>
+  
         </>
   )}
   export default App;
