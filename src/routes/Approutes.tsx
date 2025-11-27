@@ -8,13 +8,13 @@ import Footer from "../Components/Footer";
 export default function AppRoutes() {
   return (
     <Router>
-      <Footer/>
       <Navbar/>
       <Routes>
         <Route path="/about" element={<About />} />
         <Route path="/" element={<Home />} />
         <Route path="/blog" element={<Blog />} />
       </Routes>
+      <Footer/>
     </Router>
   );
 }

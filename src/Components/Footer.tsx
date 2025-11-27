@@ -14,8 +14,11 @@ function Footer() {
             <a href="https://linkedin.com/in/yourusername" target="_blank">
               LinkedIn
             </a>
-            <a href="https://instagram.com/_sub_ham_45
-            " target="_blank">
+            <a
+              href="https://instagram.com/_sub_ham_45
+            "
+              target="_blank"
+            >
               Instagram
             </a>
           </div>
