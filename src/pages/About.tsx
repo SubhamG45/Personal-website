@@ -1,4 +1,3 @@
-
 import { FaSquareInstagram } from "react-icons/fa6";
 import { FaFacebook } from "react-icons/fa";
 import { FaGithubSquare } from "react-icons/fa";
@@ -50,35 +49,36 @@ function About() {
       </div>
       <div className="about-info">
         <div className="profiles">
-          <p className="profile-pic">
-            {" "}
-            
-          </p>
+          <p className="profile-pic"> </p>
           <p>
-           
-            <a 
+            <a
               href="https://github.com/SubhamG45"
               target="_blank"
-              className="profile-link github">
-               <FaGithubSquare size={40} />
-             </a>
+              className="profile-link github"
+            >
+              <FaGithubSquare size={40} />
+            </a>
           </p>
 
           <p>
-            
             <a
               href="https://www.instagram.com/in/_sub_ham_45"
               target="_blank"
               className="profile-link instagram"
-            > <FaSquareInstagram size={40} /></a>
+            >
+              {" "}
+              <FaSquareInstagram size={40} />
+            </a>
           </p>
           <p>
-            
             <a
               href="https://www.facebook.com/subbam.gyawali"
               target="_blank"
               className="profile-link facebook"
-            >  <FaFacebook size={40} /></a>
+            >
+              {" "}
+              <FaFacebook size={40} />
+            </a>
           </p>
         </div>
       </div>

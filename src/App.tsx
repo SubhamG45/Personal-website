@@ -1,7 +1,6 @@
 import { MantineProvider, Container, createTheme } from "@mantine/core";
 import AppRoutes from "./routes/Approutes";
 import "@mantine/core/styles.css";
-import Footer from "./Components/Footer";
 
 const theme = createTheme({});
 function App(){
