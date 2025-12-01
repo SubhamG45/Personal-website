@@ -1,9 +1,11 @@
 import minimart from "../assets/minimart.jpg"
-import fbLogin from "../assets/login.jpg"
+import fbLogin from "../assets/pic.png"
+import { CgProfile } from "react-icons/cg";
 import "./Home.css";
 function Home() {
   return (
     <>
+    <div className="iconn"><a><CgProfile className="icon" size={40} /></a></div>
       <div className="container">
 
         <h1 className="container-heading">

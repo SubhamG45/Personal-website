@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { CgProfile } from "react-icons/cg";
 import "./Navbar.css";
 
 function Navbar() {
@@ -20,6 +21,7 @@ function Navbar() {
         </ul>
 
         </div>
+        
         
       </nav>
       </>

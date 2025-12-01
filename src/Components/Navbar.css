@@ -21,4 +21,14 @@
 }
 li{
     list-style: none;
+    display: flex;
+    justify-content: end;
+    cursor: pointer;
+}
+.iconn{
+    cursor: pointer;
+    display: flex;
+    justify-content:first baseline;
+    align-items: end;
+    background-color: #FEE4C4;
 }
