@@ -1,7 +1,10 @@
 function Blog(){
     return(
         <>
-        <h1>hs</h1>
+        <h1>My name is subham Gyawali.
+            I will continue this blog page session 
+            after some period of time hold on guyz.....
+        </h1>
         </>
     )
 }
