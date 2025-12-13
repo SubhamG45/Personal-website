@@ -54,7 +54,7 @@ function About() {
             <a
               href="https://github.com/SubhamG45"
               target="_blank"
-              className="profile-link github"
+              className="profile-link "
             >
               <FaGithubSquare size={40} />
             </a>

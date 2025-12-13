@@ -1,11 +1,10 @@
 import minimart from "../assets/minimart.jpg"
 import fbLogin from "../assets/pic.png"
-import { CgProfile } from "react-icons/cg";
+import tictactoe from "../assets/tictactoe.png"
 import "./Home.css";
 function Home() {
   return (
     <>
-    <div className="iconn"><a><CgProfile className="icon" size={40} /></a></div>
       <div className="container">
 
         <h1 className="container-heading">
@@ -65,8 +64,22 @@ function Home() {
     </p>
 
     <div className="project-buttons">
-      <a href=" " target="_blank" className="btn live">Live Demo</a>
-      <a href="https://github.com/SubhamG45/Facebook-Login-Page/branches" target="_blank" className="btn github">GitHub</a>
+      <a href="https://subham-fb-login.vercel.app/ " target="_blank" className="btn live">Live Demo</a>
+      <a href="https://github.com/SubhamG45/fb-login.git" target="_blank" className="btn github">GitHub</a>
+    </div>
+  </div>
+    <div className="project-card">
+    <img src={tictactoe} alt="My Project"></img>
+
+    <h3>TicTacToe</h3>
+
+    <p>
+      TicTacToe Game using html,css and js
+    </p>
+
+    <div className="project-buttons">
+      <a href="https://subham-tic-tac-toe.vercel.app/ " target="_blank" className="btn live">Live Demo</a>
+      <a href="https://github.com/SubhamG45/TicTacToe.git" target="_blank" className="btn github">GitHub</a>
     </div>
   </div>
 
