@@ -80,7 +80,7 @@ const Hero: React.FC = () => {
           </a>
           <a
             href="/documents/resume.pdf"
-            download="Subham_Gyawali_Resume-1 (1).pdf"
+            download="https://drive.google.com/file/d/1TnXNMy6i4S10NAGwmzgYRW-l7EJFIEWa/view?usp=drivesdk"
             className="btn-secondary inline-flex items-center gap-2"
           >
             <Download size={18} />
