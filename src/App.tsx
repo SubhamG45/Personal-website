@@ -1,12 +1,12 @@
-import Header from "./components/Header";
-import Hero from "./components/Hero";
-import About from "./components/About";
-import Experience from "./components/Experience";
-import Skills from "./components/Skills";
-import Education from "./components/Education";
-import Gallery from "./components/Gallery";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+import Header from "./Components/Header";
+import Hero from "./Components/Hero";
+import About from "./Components/About";
+import Experience from "./Components/Experience";
+import Skills from "./Components/Skills";
+import Education from "./Components/Education";
+import Gallery from "./Components/Gallery";
+import Contact from "./Components/Contact";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
